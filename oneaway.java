@@ -27,3 +27,4 @@ class oneaway{
 		System.out.println(checkRepl("daniel","dadiel"));
 	}
 }
+
